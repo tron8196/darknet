@@ -1,0 +1,2 @@
+/cotent/darknet/data/garbage/007.jpg
+/cotent/darknet/data/garbage/008.jpg

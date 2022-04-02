@@ -1,0 +1,9 @@
+/cotent/darknet/data/garbage/001.jpg
+/cotent/darknet/data/garbage/002.jpg
+/cotent/darknet/data/garbage/003.jpg
+/cotent/darknet/data/garbage/004.jpg
+/cotent/darknet/data/garbage/005.jpg
+/cotent/darknet/data/garbage/006.jpg
+/cotent/darknet/data/garbage/009.jpg
+/cotent/darknet/data/garbage/010.jpg
+/cotent/darknet/data/garbage/011.jpg

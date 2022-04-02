@@ -1,0 +1,5 @@
+classes= 1
+train  = cfg/garbage-train.txt
+valid  = cfg/garbage-test.txt
+names = data/garbage.names
+backup = backup
